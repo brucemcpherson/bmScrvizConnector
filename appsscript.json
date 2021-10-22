@@ -1,0 +1,25 @@
+{
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "bmVizzyCache",
+        "libraryId": "1SohIo0pSlXSt2SKNf3iX2ZcbzE_N0F4BocnKpGuaXgyxx1X6s1nDhjZK",
+        "version": "6",
+        "developmentMode": false
+      }
+    ]
+  },
+  "dataStudio": {
+    "name": "scrviz",
+    "logoUrl": "https://raw.githubusercontent.com/brucemcpherson/gitvizzy/master/public/favicon-32x32.png",
+    "company": "Bruce Mcpherson",
+    "companyUrl": "https://mcpher.com/",
+    "addonUrl": "https://ramblings.mcpher.com/vizzy-scrviz/",
+    "supportUrl": "https://github.com/brucemcpherson/desktopliberation/issues",
+    "description": "Get Scrviz stats",
+    "authType": [
+      "NONE"
+    ]
+  }
+}
