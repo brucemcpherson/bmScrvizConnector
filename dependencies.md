@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmScrvizConnector
-This repo (bmScrvizConnector) was automatically updated on 10/22/2021, 10:28:47 AM by GasGit
+This repo (bmScrvizConnector) was automatically updated on 6/19/2024, 2:39:34 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -22,11 +22,11 @@ Digestive| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmVizzyCache| bmVizzyCache|1SohIo0pSlXSt2SKNf3iX2ZcbzE_N0F4BocnKpGuaXgyxx1X6s1nDhjZK|6|no|[here](libraries/bmVizzyCache "library source")
+bmVizzyCache| bmVizzyCache|1SohIo0pSlXSt2SKNf3iX2ZcbzE_N0F4BocnKpGuaXgyxx1X6s1nDhjZK|6|no|no
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmVizzyCache| bmVizzyCache|1SohIo0pSlXSt2SKNf3iX2ZcbzE_N0F4BocnKpGuaXgyxx1X6s1nDhjZK|6|no|[here](libraries/bmVizzyCache "library source")
+bmVizzyCache| bmVizzyCache|1SohIo0pSlXSt2SKNf3iX2ZcbzE_N0F4BocnKpGuaXgyxx1X6s1nDhjZK|6|no|no
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
